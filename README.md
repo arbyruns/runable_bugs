@@ -1,5 +1,9 @@
 # runable_bugs
 
+# Download
+
+You can download runableTraining [here](https://runable.app/)
+
 # How do I report a bug?
 
 To create a report, you'll need a [GitHub account](https://github.com/), which is super fast (and free) to do.
